@@ -6,8 +6,6 @@
 
 Now point your browser to http://localhost:8000/index.html.
 
-This is also how we will be testing your app, so please put all the files necessary for the app to run in `dist`.
-
 ## Data
 
 Uncompress the data:
@@ -15,6 +13,8 @@ Uncompress the data:
     tar -xzf data.tar.gz
 
 Now you should have a `data` directory with one file, `2015-AA-UA-DL-flights.csv`.
+
+Run scripts in `data_scripts`
 
 `2015-AA-UA-DL-flights.csv` contains a row for every American Airlines, United Airlines or Delta flight in the US in 2015. It has the following columns:
 
