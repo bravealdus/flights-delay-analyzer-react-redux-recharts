@@ -6,7 +6,8 @@
 
 Now point your browser to http://localhost:8000/index.html.
 
-## Data
+
+## Development (Not needed to run the app)
 
 Uncompress the data:
 
@@ -16,6 +17,8 @@ Now you should have a `data` directory with one file, `2015-AA-UA-DL-flights.csv
 
 Run scripts in `data_scripts`
 
+
+## Raw Data format
 `2015-AA-UA-DL-flights.csv` contains a row for every American Airlines, United Airlines or Delta flight in the US in 2015. It has the following columns:
 
 - `FL_DATE` flight date, in YYYY-MM-DD format.
