@@ -4,7 +4,7 @@
     cd dist/
     python -m SimpleHTTPServer
 
-Now point your browser to http://localhost:8000/index.html.
+Now point your browser to http://localhost:8000
 
 
 ## Development (Not needed to run the app)
